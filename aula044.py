@@ -1,5 +1,5 @@
 print('Mater')
 
-input ('Digite nome ')
-
+input ('Digite nome1  ')
+input ('Digite nome2  ')  
 
