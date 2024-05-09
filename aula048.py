@@ -35,7 +35,14 @@ lista_b = [4,5,6]
 lista_c = lista_a + lista_b
 #lista_a.extend(lista_b)
 print(lista_c)
-print(lista_d)
+
 
 
 #proxima aula 84
+# = Aponta para o mesmo valor na memória
+lista1 = ['Luiz', 'Antonio']
+lista2 = lista1.copy()
+lista1[0] = 'Bernado'
+print(lista1)
+print(lista2)
+
